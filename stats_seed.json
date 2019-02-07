@@ -1,0 +1,72 @@
+//Daily Stats Data Backup for Testing//
+
+{
+    "_id" : ObjectId("5bf2f377160a52eb15dca057"),
+    "Date" : "2018.10.03",
+    "Burned" : "608",
+    "Low" : "1",
+    "Med" : "2",
+    "High" : "6",
+    "Critical" : "17",
+    "Extreme" : "28",
+    "AvgHR" : "167",
+    "PeakHR" : "184",
+    "AvgPercMaxHR" : "90",
+    "MaxHR" : "99"
+},
+{
+    "_id" : ObjectId("5bf2f4bd160a52eb15dca86f"),
+    "Date" : "2018.10.06",
+    "Burned" : "509",
+    "Low" : "1",
+    "Med" : "1",
+    "High" : "19",
+    "Critical" : "19",
+    "Extreme" : "9",
+    "AvgHR" : "157",
+    "PeakHR" : "192",
+    "AvgPercMaxHR" : "84",
+    "MaxHR" : "99"
+},
+{
+    "_id" : ObjectId("5bf2f543160a52eb15dcabbd"),
+    "Date" : "2018.10.09",
+    "Burned" : "625",
+    "Low" : "2",
+    "Med" : "2",
+    "High" : "14",
+    "Critical" : "18",
+    "Extreme" : "22",
+    "AvgHR" : "159",
+    "PeakHR" : "186",
+    "AvgPercMaxHR" : "85",
+    "MaxHR" : "99"
+},
+{
+    "_id" : ObjectId("5bf2f58d160a52eb15dcad60"),
+    "Date" : "2018.10.10",
+    "Burned" : "452",
+    "Low" : "8",
+    "Med" : "2",
+    "High" : "15",
+    "Critical" : "13",
+    "Extreme" : "12",
+    "AvgHR" : "149",
+    "PeakHR" : "191",
+    "AvgPercMaxHR" : "80",
+    "MaxHR" : "99"
+},
+{
+    "_id" : ObjectId("5bf2f5e4160a52eb15dcaf5f"),
+    "Date" : "2018.10.13",
+    "Burned" : "564",
+    "Low" : "0",
+    "Med" : "2",
+    "High" : "14",
+    "Critical" : "18",
+    "Extreme" : "18",
+    "AvgHR" : "162",
+    "PeakHR" : "188",
+    "AvgPercMaxHR" : "87",
+    "MaxHR" : "99"
+}
